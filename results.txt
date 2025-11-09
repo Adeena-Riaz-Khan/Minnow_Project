@@ -1,0 +1,29 @@
+PING ANALYSIS RESULTS
+
+
+Host: www.apple.com
+Total sent: 42744
+Total received: 39060
+
+Q1: Delivery rate = 0.9138
+Q1: Loss rate = 0.0862
+
+Q2: Longest success = 182
+
+Q3: Longest loss = 138
+
+Q4: P(success|success) = 0.9251
+Q4: P(success|loss) = 0.7945
+
+Q5: Min RTT = 94.20 ms
+
+Q6: Max RTT = 9692.00 ms
+
+Q7: See rtt_vs_time.png
+
+Q8: Mean = 170.05 ms
+Q8: Median = 123.00 ms
+Q8: See rtt_distribution.png
+
+Q9: Correlation = 0.8361
+Q9: See rtt_correlation.png
