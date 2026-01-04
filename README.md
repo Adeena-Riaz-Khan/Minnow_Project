@@ -1,4 +1,3 @@
-Minnow – TCP Implementation (Stanford CS144)
 This project is an implementation of a TCP-like reliable transport protocol built as part of the Minnow (CS144 – Computer Networking) framework by Stanford University.  
 The goal of the project is to understand how TCP works internally by implementing its core components from scratch.
 
